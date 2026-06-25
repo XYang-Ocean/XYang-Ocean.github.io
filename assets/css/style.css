@@ -74,6 +74,7 @@ img{max-width:100%;display:block}
 .research-card h2 a{color:var(--ink)}
 .research-card p{color:var(--muted);margin:0 18px 18px}
 .research-card .image-credit{font-size:.8rem;margin-top:-8px}
+.research-card .research-links{font-size:.85rem;line-height:1.5;overflow-wrap:anywhere}
 .research-card.wide{grid-column:span 3;display:grid;grid-template-columns:1fr 1.1fr;align-items:center}
 .research-card.wide img{height:300px}
 .research-card.wide div{padding:0 22px}
