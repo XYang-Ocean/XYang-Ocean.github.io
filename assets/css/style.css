@@ -111,6 +111,8 @@ img{max-width:100%;display:block}
 .cv-date{color:var(--teal);font-weight:800;font-size:.92rem}
 .cv-body h3{font-size:1.02rem;line-height:1.35;margin:0 0 5px;font-weight:800;color:var(--ink)}
 .cv-body p{margin:0 0 7px;color:#475467}
+.cv-subhead{font-size:1.05rem;margin:4px 0 10px;font-weight:800;color:#475467}
+.cv-subhead:not(:first-of-type){margin-top:22px}
 .cv-list{margin:0;padding-left:22px;color:#475467}
 .cv-list li{margin:0 0 12px}
 .cv-list li:last-child{margin-bottom:0}
