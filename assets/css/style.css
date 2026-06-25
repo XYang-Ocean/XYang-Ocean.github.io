@@ -95,6 +95,7 @@ img{max-width:100%;display:block}
 .talk-year ul{margin:0;padding-left:34px}
 .talk-year li{margin:0 0 22px;color:#3f4751;font-size:1rem;line-height:1.55}
 .talk-year li strong{font-weight:800;color:#3f4751}
+.talk-year li a{overflow-wrap:anywhere}
 .pub-list{background:transparent;border:0;border-radius:0;padding:0;box-shadow:none}
 .pub-list h2{font-size:1.25rem;margin:28px 0 8px}
 .pub-item{display:grid;grid-template-columns:70px 1fr;gap:18px;border-top:1px solid var(--line);padding:18px 0}
